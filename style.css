@@ -111,7 +111,8 @@ body{
         text-align: center
     }
     .nav ul a{
-    padding: 10px;
+    padding: 11px 10px 0px 10px;
+
 }
     .content{
         width: auto;
@@ -138,7 +139,7 @@ body{
         font-size: 14px
     }
     .nav ul a{
-    padding: 5px;
+        padding: 12px 10px 0px 10px;
 }
 }
 @media screen and (max-width:320px){
@@ -146,12 +147,12 @@ body{
         font-family: Verdana, Geneva, Tahoma, sans-serif
     }
     .nav{
-        height: 22px;
+        height: 30px;
         text-align: center;
-        font-size: 14px
+        
     }
     .nav ul a{
-    padding: 2px;
+        padding: 12px 3px 0px 0;
     }
     .content{
         font-size: 12px
